@@ -37,23 +37,11 @@
 	},
 	"commit_scope": {
 		"enable": true,
-		"initial_value": "app",
+		"initial_value": "yo-momma",
 		"options": [
 			{
-				"value": "app",
-				"label": "app"
-			},
-			{
-				"value": "shared",
-				"label": "shared"
-			},
-			{
-				"value": "server",
-				"label": "server"
-			},
-			{
-				"value": "tools",
-				"label": "tools"
+				"value": "yo-momma",
+				"label": "yo momma"
 			},
 			{
 				"value": "",
